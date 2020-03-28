@@ -4,9 +4,9 @@ A curated list of resources for Learning with Noisy Labels
 
 **Papers**
 
-+ 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
++ [x] 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
 
-+ 2013-NIPS - Learning with Multiple Labels. [[Paper]](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
++ [x] 2013-NIPS - Learning with Multiple Labels. [[Paper]](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
 
 + 2013-NIPS - Learning with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)[[Code]](https://github.com/jamie2017/LearningWithNoisyLabels)
 
@@ -92,7 +92,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICLR_W - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[[Paper]](https://arxiv.org/pdf/1805.09622.pdf)[[Code]](https://github.com/orlitany/SOSELETO)
 
-+ 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
++ [x] 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
 + 2019-CVPR - Learning a Deep ConvNet for Multi-label Classification with Partial Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.html)
 
@@ -128,7 +128,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-TGRS - Hyperspectral Image Classification in the Presence of Noisy Labels. [[Paper]](https://arxiv.org/abs/1809.04212) [[Code]](https://github.com/junjun-jiang/RLPA)
 
-+ 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)
++ [x] 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)
 
 + 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)[[Code]](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)
 
