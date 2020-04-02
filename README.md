@@ -48,6 +48,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 
++ [x] 2017 - WebVision Database: Visual Learning and Understanding from Web Data [[Paper]](https://arxiv.org/pdf/1708.02862.pdf)
+
 + 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
 
 + 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
@@ -159,6 +161,10 @@ A curated list of resources for Learning with Noisy Labels
 + 2019 - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
 
 + 2019 - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
+
++ [x] 2019 - Self-training with Noisy Student improves ImageNet classification [[Paper]](https://arxiv.org/abs/1911.04252)
+
++ [x] 2019 - CVPR - Large-scale weakly-supervised pre-training for video action recognition [[Paper]](https://arxiv.org/pdf/1905.00561.pdf)
 
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
