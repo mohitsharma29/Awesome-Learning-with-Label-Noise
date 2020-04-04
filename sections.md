@@ -11,6 +11,8 @@
 
 2019-CVPR - Learning to Learn from Noisy Labeled Data.
 
+2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
