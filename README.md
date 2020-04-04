@@ -72,7 +72,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ICML - Dimensionality-Driven Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
 
-+ 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [[Code]](https://github.com/guoshengcv/CurriculumNet)
++ [x] 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [[Code]](https://github.com/guoshengcv/CurriculumNet)
 
 + 2018-ECCV - Deep Bilevel Learning. [[Paper]](https://arxiv.org/abs/1809.01465) [[Code]](https://github.com/sjenni/DeepBilevel)
 
