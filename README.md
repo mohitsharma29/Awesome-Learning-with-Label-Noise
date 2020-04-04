@@ -100,7 +100,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + [x] 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
-+ 2019-CVPR - Learning a Deep ConvNet for Multi-label Classification with Partial Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.html)
++ [x] 2019-CVPR - Learning a Deep ConvNet for Multi-label Classification with Partial Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.html)
 
 + 2019-CVPR - Label-Noise Robust Generative Adversarial Networks. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kaneko_Label-Noise_Robust_Generative_Adversarial_Networks_CVPR_2019_paper.html) [[Code]](https://github.com/takuhirok/rGAN)
 
