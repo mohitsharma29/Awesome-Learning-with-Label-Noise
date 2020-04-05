@@ -150,6 +150,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-NIPS - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.[[Paper]](https://arxiv.org/abs/1902.07379)[[Code]](https://github.com/xjtushujun/meta-weight-net)
 
++ 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning? [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)
+
 + 2019-TPAMI - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/abs/1811.00700)
 
 + 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
