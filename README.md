@@ -30,7 +30,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + [x] 2016 - ICLR - Understanding Deep Learning requires rethinking Generalization [[Paper]](https://arxiv.org/abs/1611.03530)
 
-+ 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
++ [x] 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
 
 + 2016-ICASSP - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)[[Code-Unofficial]](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network)
 
