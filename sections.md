@@ -27,6 +27,10 @@
 
 2019 - CVPR - Large-scale weakly-supervised pre-training for video action recognition
 
+## Noise Modelling and Matrix Methods
+
+2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels.
+
 ## Misc
 
 2003-NIPS - Learning with Multiple Labels.
