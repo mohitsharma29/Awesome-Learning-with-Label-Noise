@@ -4,6 +4,8 @@
 
 2012-ICML - Learning to Label Aerial Images from Noisy Data
 
+2018 - CVPR - Iterative learning with Open Set Noisy Labels
+
 
 ## Training Based and Model Agnostic
 
