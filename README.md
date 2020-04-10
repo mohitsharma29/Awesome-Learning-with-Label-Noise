@@ -64,7 +64,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-CVPR - Joint Optimization Framework for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.html) [[Code]](https://github.com/DaikiTanaka-UT/JointOptimization)[[Code-Unofficial-Pytorch]](https://github.com/YU1ut/JointOptimization)
 
-+ 2018-CVPR - Iterative Learning with Open-set Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Iterative_Learning_With_CVPR_2018_paper.html) [[Code]](https://github.com/YisenWang/Iterative_learning)
++ [x] 2018-CVPR - Iterative Learning with Open-set Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Iterative_Learning_With_CVPR_2018_paper.html) [[Code]](https://github.com/YisenWang/Iterative_learning)
 
 + 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
 
