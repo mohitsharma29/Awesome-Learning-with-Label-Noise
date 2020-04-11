@@ -80,7 +80,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-WACV - Iterative Cross Learning on Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8354192)
 
-+ 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Code]](https://github.com/bhanML/Co-teaching)
++ [x] 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Code]](https://github.com/bhanML/Co-teaching)
 
 + 2018-NIPS - Masking: A New Perspective of Noisy Supervision. [[Paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf) [[Code]](https://github.com/bhanML/Masking)
 
