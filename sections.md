@@ -15,6 +15,8 @@
 
 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images
 
+2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels.
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
