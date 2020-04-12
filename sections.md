@@ -38,3 +38,6 @@
 ## Misc
 
 2003-NIPS - Learning with Multiple Labels.
+
+## Sturcture
+Sources - Webly data, annotators etc.
