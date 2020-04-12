@@ -32,6 +32,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2016-ICML - Loss factorization, weakly supervised learning and label noise robustness.
 
++ 2016-TPAMI - Classification with noisy labels by importance reweighting
+
 + [x] 2016 - ICLR - Understanding Deep Learning requires rethinking Generalization [[Paper]](https://arxiv.org/abs/1611.03530)
 
 + [x] 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
