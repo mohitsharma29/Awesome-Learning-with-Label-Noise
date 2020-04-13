@@ -17,6 +17,8 @@
 
 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels.
 
+2015-ICLR_W - Training Convolutional Networks with Noisy Labels
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
@@ -35,9 +37,13 @@
 
 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels.
 
+2015-ICLR_W - Training Convolutional Networks with Noisy Labels
+
 ## Misc
 
 2003-NIPS - Learning with Multiple Labels.
 
 ## Sturcture
 Sources - Webly data, annotators etc.
+
+Brief about various approaches like noise modelling, open set, positive unlabelled, negative learning etc.
