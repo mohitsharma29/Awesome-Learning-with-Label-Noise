@@ -14,7 +14,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2014-Survey - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://pdfs.semanticscholar.org/2c8f/24f859bbbc4193d4d83645ef467bcf25adc2.pdf)
 
-+ 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
++ [x] 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
 
 + 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)[[Code]](https://github.com/Cysu/noisy_label)
 
