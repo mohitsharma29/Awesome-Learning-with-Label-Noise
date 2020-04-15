@@ -39,6 +39,8 @@
 
 2015-ICLR_W - Training Convolutional Networks with Noisy Labels
 
+2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification
+
 ## Misc
 
 2003-NIPS - Learning with Multiple Labels.
