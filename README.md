@@ -16,7 +16,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + [x] 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
 
-+ 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)[[Code]](https://github.com/Cysu/noisy_label)
++ [x] 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)[[Code]](https://github.com/Cysu/noisy_label)
 
 + 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)[[Loss-Code-Unofficial-1]](https://github.com/edufonseca/icassp19/blob/master/losses.py)[[Loss-Code-Unofficial-2]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)[[Code-Keras]](https://github.com/dr-darryl-wright/Noisy-Labels-with-Bootstrapping)
 
