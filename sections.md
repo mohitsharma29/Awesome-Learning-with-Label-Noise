@@ -46,4 +46,4 @@
 ## Sturcture
 Sources - Webly data, annotators etc.
 
-Brief about various approaches like noise modelling, open set, positive unlabelled, negative learning etc.
+Brief about various approaches like noise modelling, open set, positive unlabelled, negative learning etc., cosideration of attribute/feature noise or not, 
