@@ -19,6 +19,8 @@
 
 2015-ICLR_W - Training Convolutional Networks with Noisy Labels
 
+2015-CVPR/ICLR_W - Training Deep Neural Networks on Noisy Labels with Bootstrapping
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
@@ -40,6 +42,8 @@
 2015-ICLR_W - Training Convolutional Networks with Noisy Labels
 
 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification
+
+2015-CVPR/ICLR_W - Training Deep Neural Networks on Noisy Labels with Bootstrapping
 
 ## Misc
 
