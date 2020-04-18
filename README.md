@@ -28,7 +28,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2016-ICLR - Auxiliary Image Regularization for Deep CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)[[Code]](https://github.com/azadis/AIR)
 
-+ 2016-ECCV - The unreasonable effectiveness of noisy data for fine-grained recognition.
++ [x] 2016-ECCV - The unreasonable effectiveness of noisy data for fine-grained recognition.
 
 + 2016-ICML - Loss factorization, weakly supervised learning and label noise robustness.
 
