@@ -8,3 +8,6 @@ F. Schroff, A. Criminisi, and A. Zisserman. Harvesting image databases from the 
 
 Y. Gong, Q. Ke, M. Isard, and S. Lazebnik. A multi-view embedding space for modeling internet images, tags, and their
 semantics. IJCV, 106(2):210–233, 2014
+
+Chen, X., Gupta, A.: Webly supervised learning of convolutional networks. In:
+International Conference on Computer Vision (ICCV). IEEE (2015)
