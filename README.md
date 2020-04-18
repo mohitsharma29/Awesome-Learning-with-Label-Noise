@@ -182,6 +182,22 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
++ 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [Paper] [Code]
+
++ 2020-AAAI - Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [Paper]
+
++ 2020-AAAI - Coupled-view Deep Classifier Learning from Multiple Noisy Annotators. [Paper]
+
++ 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-XieM.5032.pdf)
+
++ 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [Paper]
+
++ 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [Paper]
+
++ 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [Paper]
+
++ 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [Paper]
+
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
