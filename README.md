@@ -144,8 +144,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)[[Code]](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)
 
-+ 2019-ICCV - Deep Self-Learning From Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.02160)
-
 + 2019-ICCV - Co-Mining: Deep Face Recognition With Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html)
 
 + 2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.html)
@@ -162,11 +160,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
-+ 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
-
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
+
++ 2019 - Synthetic vs Real: Deep Learning on Controlled Noise. [[Paper]](https://arxiv.org/abs/1911.09781)
 
 + 2019 - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/abs/1903.12141)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
 
@@ -177,27 +175,55 @@ A curated list of resources for Learning with Noisy Labels
 + [x] 2019 - Self-training with Noisy Student improves ImageNet classification [[Paper]](https://arxiv.org/abs/1911.04252)
 
 + [x] 2019 - CVPR - Large-scale weakly-supervised pre-training for video action recognition [[Paper]](https://arxiv.org/pdf/1905.00561.pdf)
++ 2019 - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
 
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
 + 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
-+ 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [Paper] [Code]
++ 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [[Paper]](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Cui2020.pdf) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
-+ 2020-AAAI - Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [Paper]
++ 2020-AAAI - Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [[Paper]](http://people.cs.vt.edu/~ctlu/Publication/2020/AAAI-ZhangX-8567-Proceedings.pdf)
 
-+ 2020-AAAI - Coupled-view Deep Classifier Learning from Multiple Noisy Annotators. [Paper]
++ 2020-AAAI - Coupled-view Deep Classifier Learning from Multiple Noisy Annotators. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
 
-+ 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-XieM.5032.pdf)
++ 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
 
-+ 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [Paper]
++ 2020-WACV - A Novel Self-Supervised Re-labeling Approach for Training with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_A_Novel_Self-Supervised_Re-labeling_Approach_for_Training_with_Noisy_Labels_WACV_2020_paper.html)
 
-+ 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [Paper]
++ 2020-WACV - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.html)
 
-+ 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [Paper]
++ 2020-WACV - Learning from Noisy Labels via Discrepant Collaborative Training. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Han_Learning_from_Noisy_Labels_via_Discrepant_Collaborative_Training_WACV_2020_paper.html)
 
-+ 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [Paper]
++ 2020-ICLR - SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://arxiv.org/abs/1910.01842)
 
++ 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://arxiv.org/abs/2002.07394)
+
++ 2020-ICLR - Can gradient clipping mitigate label noise?. [[Paper]](https://openreview.net/pdf?id=rklB76EKPr)
+
++ 2020-ICLR - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
+
++ 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://arxiv.org/abs/1905.11368)
+
++ 2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
+
++ 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
+
++ 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
+
++ 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [[Paper]](https://arxiv.org/abs/2002.07933)[[Code]](https://github.com/hrayrhar/limit-label-memorization)
+
++ 2020 - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
+
++ 2020 - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)
+
+**Survey**
+
++ 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
+
++ 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey. [[Paper]](https://arxiv.org/abs/1912.05170)
+
++ 2020 - Deep learning with noisy labels: exploring techniques and remedies in medical image analysis. [[Paper]](https://arxiv.org/abs/1912.02911)
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
