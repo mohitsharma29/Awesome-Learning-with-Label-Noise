@@ -21,6 +21,8 @@
 
 2015-CVPR/ICLR_W - Training Deep Neural Networks on Noisy Labels with Bootstrapping
 
+2018-CVPR - Iterative Learning with Open-set Noisy Labels
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
