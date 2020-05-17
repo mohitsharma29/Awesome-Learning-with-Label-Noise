@@ -11,6 +11,8 @@
 
 2019-ICCV - NLNL: Negative Learning for Noisy Labels.
 
+2019-ICCV - Deep Self-Learning From Noisy Labels
+
 2019-CVPR - Learning to Learn from Noisy Labeled Data.
 
 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images
