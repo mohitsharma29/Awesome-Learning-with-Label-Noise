@@ -189,7 +189,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Coupled-view Deep Classifier Learning from Multiple Noisy Annotators. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
 
-+ 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
++ [XX] 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
 
 + 2020-WACV - A Novel Self-Supervised Re-labeling Approach for Training with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_A_Novel_Self-Supervised_Re-labeling_Approach_for_Training_with_Noisy_Labels_WACV_2020_paper.html)
 
