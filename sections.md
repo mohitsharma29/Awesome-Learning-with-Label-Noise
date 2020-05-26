@@ -6,6 +6,8 @@
 
 2018 - CVPR - Iterative learning with Open Set Noisy Labels
 
+2013 - NIPS - Learning from Noisy Labels
+
 
 ## Training Based and Model Agnostic
 
