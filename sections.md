@@ -27,6 +27,8 @@
 
 2018-CVPR - Iterative Learning with Open-set Noisy Labels
 
+2018-ICLR - mixup: Beyond Empirical Risk Minimization.
+
 ## Analysis and Theory
 
 2016 - Understanding Deep Learning requires rethinking Generalization
