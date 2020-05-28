@@ -60,7 +60,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
 
-+ 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
++ [x] 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
 + 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
 
