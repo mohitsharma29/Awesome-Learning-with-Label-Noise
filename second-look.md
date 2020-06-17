@@ -1,4 +1,4 @@
-Learning from Massive Noisy Labeled Data for Image Classification - 2015
+~~2015-CVPR Learning from Massive Noisy Labeled Data for Image Classification
 
 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping.
 
